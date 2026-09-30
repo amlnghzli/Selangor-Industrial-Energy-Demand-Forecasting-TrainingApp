@@ -2,7 +2,7 @@
 
 This repository contains the complete VS Code project and Streamlit web application for the Capstone Energy Forecasting project.
 
-## Quickstart
+## Quickstart (())
 
 1. **Clone/Unzip project**
 2. **Setup virtual environment**:
